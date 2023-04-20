@@ -1,0 +1,15 @@
+.PBJ_img{
+  width: 300px;  
+  height: auto;  
+  text-align: center;  
+  padding: 15px;  
+  border: 10px solid black;  
+  }
+  
+.PBJ_text{
+  font-size: 35pt;
+  }
+
+  *{
+    border: 2px solid red;
+  }
